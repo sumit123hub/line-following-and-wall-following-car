@@ -1,5 +1,6 @@
 // this is the code for rainy session 2079 held in wrc
 // hello world
+// welcome
 
 #define lm 5//left motor
 #define rm 6//right motor
