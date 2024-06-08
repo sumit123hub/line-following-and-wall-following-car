@@ -2,8 +2,7 @@
 // hello world
 // welcome
 // smthin
-// another
-// new
+
 
 #define lm 5//left motor
 #define rm 6//right motor
@@ -11,7 +10,6 @@ int leftdistance();
 int rightdistance();
 
 void setup() {
- 
    pinMode(7,OUTPUT);//left ultra trig
    pinMode(8,INPUT);//left ultra echo
       pinMode(11,OUTPUT);//right ultra trig
